@@ -1,0 +1,8 @@
+.page-flex {
+    display: flex;
+}
+
+.main-wrapper {
+    position: relative;
+    width: 100%;
+}
